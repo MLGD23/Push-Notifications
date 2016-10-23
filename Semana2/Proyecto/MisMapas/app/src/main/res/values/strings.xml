@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MisMapas</string>
+    <string name="ir_mapas">Ir a Mapas</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_sitios_frecuencia">Lugares Frecuentes</string>
+    <string name="sitio_polideportivo">Polideportivo</string>
+    <string name="sitio_parque_sancristobal">Parque San Cristobal</string>
+    <string name="sitio_zona_comidas">Zona de Comidas</string>
+    <string name="sitio_zona_iglesia">Iglesia San Cristobal</string>
+</resources>
