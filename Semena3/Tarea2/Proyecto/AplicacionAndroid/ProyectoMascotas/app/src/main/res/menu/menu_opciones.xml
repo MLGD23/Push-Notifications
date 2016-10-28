@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mContacto"
+        android:title="@string/menu_contacto"
+        android:orderInCategory="100">
+    </item>
+    <item android:id="@+id/mAcerca"
+        android:title="@string/menu_acercade"
+        android:orderInCategory="101">
+    </item>
+    <item android:id="@+id/mConfigurarCta"
+        android:title="@string/menu_configCuenta"
+        android:orderInCategory="102">
+    </item>
+    <item android:id="@+id/mRecibirNotificacion"
+        android:title="@string/menu_recibirNotificaciones"
+        android:orderInCategory="102">
+    </item>
+</menu>
