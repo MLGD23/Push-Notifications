@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="nombre_mascota">Meteoro</string>
+    <string name="cant_likes">50</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_acercade">Acerca de</string>
+    <string name="menu_configCuenta">Configurar Cuenta</string>
+    <string name="menu_recibirNotificaciones">Recibir Notificaciones</string>
+    <string name="label_nombre">Nombre Contacto</string>
+    <string name="label_correo">Correo Electrónio</string>
+    <string name="label_mensaje">Mensaje</string>
+    <string name="label_enviar_correo">Enviar Comentario</string>
+    <string name="label_acerca_de">Acerca de...</string>
+    <string name="label_version_etiqueta">Versión Programa</string>
+    <string name="label_version">1.0</string>
+    <string name="label_author">Juan Camilo Chaparro Castro</string>
+    <string name="label_author_etiqueta">Autor:</string>
+    <string name="label_profesion_etiqueta">Profesión:</string>
+    <string name="label_profesion">Ingeniero de Sistemas</string>
+    <string name="label_usuario_instagram">Escribe tu usuario</string>
+    <string name="label_guardar_cuenta">Guardar Cuenta</string>
+    <string name="label_icon_follow_unfolllow">Modificar RelacionShip</string>
+    <string name="label_icon_media_usuario">Ver Usuario</string>
+    <string name="label_icon_media_home">Ver Mi Perfil</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
+

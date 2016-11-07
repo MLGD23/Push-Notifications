@@ -1,0 +1,28 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="miLista">100dp</dimen>
+    <dimen name="card_medida">200dp</dimen>
+    <dimen name="card_height">300dp</dimen>
+    <dimen name="card_titulo">20dp</dimen>
+    <dimen name="corner_radius_cardview">4dp</dimen>
+    <dimen name="recycle_view_perfil">430dp</dimen>
+    <dimen name="left">10dp</dimen>
+    <dimen name="right">10dp</dimen>
+    <dimen name="top">10dp</dimen>
+    <dimen name="hueso">34dp</dimen>
+    <dimen name="favorito">48dp</dimen>
+    <dimen name="nombre_mascota">20sp</dimen>
+    <dimen name="likes_mascota">10sp</dimen>
+    <dimen name="elevacion_actionbar">4dp</dimen>
+    <dimen name="nombre_acercade">15sp</dimen>
+    <dimen name="top_acercade">20dp</dimen>
+    <dimen name="horizontal_margin">50dp</dimen>
+    <dimen name="margin_top">10dp</dimen>
+    <dimen name="margin_top_perfil">20dp</dimen>
+    <dimen name="imagen_perfil">100dp</dimen>
+    <dimen name="border_perfil">3dp</dimen>
+    <dimen name="pading_nombre_perfil">10dp</dimen>
+</resources>
+
